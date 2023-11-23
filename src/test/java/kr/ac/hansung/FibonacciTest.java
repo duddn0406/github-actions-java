@@ -19,5 +19,4 @@ public class FibonacciTest {
         assertEquals(13, Fibonacci.fibonacci(7));
         assertEquals(21, Fibonacci.fibonacci(8));
         assertEquals(34, Fibonacci.fibonacci(9));
-	println("a")
 }	
