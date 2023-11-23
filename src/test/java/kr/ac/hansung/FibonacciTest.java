@@ -20,3 +20,4 @@ public class FibonacciTest {
         assertEquals(21, Fibonacci.fibonacci(8));
         assertEquals(34, Fibonacci.fibonacci(9));
 }	
+}
